@@ -8,3 +8,6 @@
 	path = cmake/external/emsdk
 	url = https://github.com/emscripten-core/emsdk.git
 	branch = 4.0.11
+[submodule "OnnxRelease"]
+	path = OnnxRelease
+	url = https://github.com/ocentra/OnnxRelease.git
